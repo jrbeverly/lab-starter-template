@@ -1,0 +1,17 @@
+{
+  "slug": "lab-starter-template",
+  "namespace": "jrbeverly",
+  "status": "archived",
+  "icon": "icon.svg",
+  "license": {
+    "type": "MIT",
+    "content": "Jonathan Beverly <jrbeverly>"
+  },
+  "topics": [
+    "template",
+    "github",
+    "github-learning-lab",
+    "github-template"
+  ],
+  "languages": []
+}
