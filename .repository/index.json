@@ -13,5 +13,7 @@
     "github-learning-lab",
     "github-template"
   ],
-  "languages": []
+  "languages": [
+    "Dockerfile"
+  ]
 }
