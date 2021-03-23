@@ -1,0 +1,17 @@
+slug: lab-starter-template
+description: A simple template that can be used with my Lab Starter
+project: workbench
+namespace:
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2021
+topics: |-
+  [
+    "template",
+    "github",
+    "github-learning-lab",
+    "github-template"
+  ]
